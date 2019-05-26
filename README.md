@@ -1,2 +1,4 @@
 # GoOk
-StudyTest
+
+- team syj
+- StudyTest
